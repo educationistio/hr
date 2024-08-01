@@ -1,6 +1,4 @@
 swagger: '2.0'
-info:
-  title: |
     <u>hello</u>
   description: |
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form>
@@ -15,7 +13,7 @@ consumes:
 security:
   - basicAuth: []
 paths:
-  /botdeyh1mix:
+  /educationistio:
     get:
       responses:
         '200':
