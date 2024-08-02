@@ -1,6 +1,7 @@
 swagger: '2.0'
 info:
-  title: | <u>hr</u>
+  title: | 
+    <u>hr</u>
   description: |
     <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(window.origin)'>">
 paths:
